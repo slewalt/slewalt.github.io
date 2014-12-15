@@ -1,0 +1,39 @@
+#stripes {
+	background-image: url(stripes.png);
+	background-repeat: -x;
+	margin-top: 0px;
+	border-width: 0px;
+}
+
+#header {
+	margin-top: 200px;
+}
+
+hr {
+	border-style: solid;
+	border-color: red;
+	margin-left: 75px;
+	margin-top: 25px;
+	width: 50px;
+}
+
+p {
+	margin-left: 75px;
+	margin-top: 25px;
+	font-family: Open-Sans, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	color: white;
+}
+
+a {
+	margin-left: 75px;
+	margin-top: 25px;
+}
+
+#background {
+	position: absolute;
+	z-index: -2;
+	padding: none;
+	border-style: none;
+}
