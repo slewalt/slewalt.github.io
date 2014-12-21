@@ -1,0 +1,72 @@
+body {
+	background: url("../images/esquites-2.jpg");
+	background-size: 110%;
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+
+#menu {
+	width: 100%;
+	text-align: center;
+	margin-top: 20px;
+}
+
+li {
+	display: inline;
+	margin-right: 75px;
+	font-family: 'Josefin Sans', verdana, sans-serif;
+	color: white;
+	font-size: 18px;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+#logo {
+	font-family: 'Sigmar One', serif;
+	color: white;
+	text-align: center;
+	line-height: 20px;
+	font-size: 70px;
+	margin-top: 200px;
+}
+
+.subtitle {
+	font-family: 'Josefin Sans', verdana, sans-serif;
+	color: white;
+	text-align: center;
+	font-size: 50px;
+}
+
+.bodytext {
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: center;
+	font-family: 'Josefin Slab', serif;
+	color: white;
+	font-size: 20px;
+}
+
+.line {
+	width: 300px;
+	border: 0;
+	color: white;
+	background-color: white;
+	height: 3px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#copywrite {
+	font-family: 'Josefin Sans', verdana, sans-serif;
+	font-size: 18px;
+	color: white;
+	text-align: center;
+	width: 100%;
+	height: 80px;
+	position: absolute;
+	bottom: 5px;
+	left: 0;
+}
